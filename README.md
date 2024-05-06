@@ -1,9 +1,12 @@
 # FinTech-Innovation-Lab-Project
 
 ## Visit the website
-We have successfully deployed our code to https://fintech-innov-lab-74182ead78a6.herokuapp.com/. You can see the deployed code in `heroku` branch. However, since it will cost a lot of money, 
+We have successfully deployed our code to https://fintech-innov-lab-74182ead78a6.herokuapp.com/. You can see the deployed code in `heroku` branch. However, since it will cost a lot of money, we ultimately decided not to keep the deployment active. 
 
-## How to run the project locally
+## How to run the application locally
+You can see the recorded video [here](https://drive.google.com/file/d/1o8RY0JFGdDSkK5jnmQdInqrrzZqGNjNP/view?usp=sharing). Downloading data and cleaning data takes a while in the backend.
+
+To run the application locally,
 ```bash
 # run the backend
 cd backend
