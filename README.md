@@ -1,6 +1,9 @@
 # FinTech-Innovation-Lab-Project
 
-## How to run the project
+## Visit the website
+We have deployed our app to heroku. Visit [website](https://fintech-innov-lab-74182ead78a6.herokuapp.com/) for more details.
+
+## How to run the project locally
 ```bash
 # run the backend
 cd backend
