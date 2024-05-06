@@ -1,7 +1,7 @@
 # FinTech-Innovation-Lab-Project
 
 ## Visit the website
-We have deployed our app to heroku. Visit [website](https://fintech-innov-lab-74182ead78a6.herokuapp.com/) for more details.
+We have deployed our app to heroku. Visit [website](https://fintech-innov-lab-74182ead78a6.herokuapp.com/) for more details. However, there is a hard time limit of response time to be under 30s in heroku. Our API would take more than 30s to download data, so the website cannot get response from backend now. We will resolve this issue as soon as possible.
 
 ## How to run the project locally
 ```bash
